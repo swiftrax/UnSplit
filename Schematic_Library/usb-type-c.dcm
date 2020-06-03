@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP USB2_C_Receptacle
+D USB 2.0 Type C connector
+K connector USB
+F  ~
+$ENDCMP
+#
+#End Doc Library
