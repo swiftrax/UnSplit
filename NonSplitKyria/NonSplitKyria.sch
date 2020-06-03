@@ -44,7 +44,6 @@ Connection ~ 14425 2750
 Connection ~ 14925 2750
 Connection ~ 10425 3400
 Connection ~ 10925 3400
-Connection ~ 12925 3400
 Connection ~ 13925 3400
 Connection ~ 9225 1700
 Connection ~ 9725 1700
@@ -81,7 +80,6 @@ Connection ~ 1400 3900
 Connection ~ 1200 4100
 Connection ~ 1200 3900
 Connection ~ 11425 3400
-Connection ~ 13425 3400
 Connection ~ 11725 2350
 Connection ~ 13725 2350
 Connection ~ 11425 1450
@@ -90,6 +88,8 @@ Connection ~ 11425 2100
 Connection ~ 12925 2100
 Connection ~ 11425 2750
 Connection ~ 12925 2750
+Connection ~ 12925 3400
+Connection ~ 13425 3400
 NoConn ~ 2150 2550
 Wire Wire Line
 	650  3900 1025 3900
@@ -495,10 +495,10 @@ F 3 "" H 5825 1900 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L power:+5V #PWR?
+L power:+5V #PWR011
 U 1 1 5EEFF72F
 P 1200 3775
-F 0 "#PWR?" H 1200 3625 50  0001 C CNN
+F 0 "#PWR011" H 1200 3625 50  0001 C CNN
 F 1 "+5V" H 1215 3945 50  0000 C CNN
 F 2 "" H 1200 3775 50  0001 C CNN
 F 3 "" H 1200 3775 50  0001 C CNN
@@ -1541,10 +1541,10 @@ F 3 "" H 12350 2375 60  0001 C CNN
 $EndComp
 $Comp
 L keyboard-cache:MX_Alps_Hybrid_MX-NoLED K_41
-U 1 1 5EE39E91
+U 1 1 5EE39F12
 P 12975 3050
 F 0 "K_41" H 12934 3271 60  0000 C CNN
-F 1 "Space" H 12934 3196 20  0000 C CNN
+F 1 "Enter" H 12934 3196 20  0000 C CNN
 F 2 "MX_Only:MXOnly-1U-NoLED" H 12350 3025 60  0001 C CNN
 F 3 "" H 12350 3025 60  0001 C CNN
 	1    12975 3050
@@ -1585,10 +1585,10 @@ F 3 "" H 12850 2375 60  0001 C CNN
 $EndComp
 $Comp
 L keyboard-cache:MX_Alps_Hybrid_MX-NoLED K_42
-U 1 1 5EE39F12
+U 1 1 5EE39E91
 P 13475 3050
 F 0 "K_42" H 13434 3271 60  0000 C CNN
-F 1 "Enter" H 13434 3196 20  0000 C CNN
+F 1 "Space" H 13434 3196 20  0000 C CNN
 F 2 "MX_Only:MXOnly-1U-NoLED" H 12850 3025 60  0001 C CNN
 F 3 "" H 12850 3025 60  0001 C CNN
 	1    13475 3050
