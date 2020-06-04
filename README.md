@@ -6,6 +6,7 @@ Top
 ![Front](https://github.com/swiftrax/UnSplit/blob/master/Images/top.svg)
 Bottom
 ![Back](https://github.com/swiftrax/UnSplit/blob/master/Images/bottom.svg)
+*Open with KiCad nightly*
 
 ## License
 
