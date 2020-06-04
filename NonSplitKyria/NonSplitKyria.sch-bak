@@ -447,6 +447,38 @@ Text GLabel 1825 2950 0    50   Input ~ 0
 D+
 Text GLabel 1825 3050 0    50   Input ~ 0
 D-
+Text GLabel 3350 2350 2    50   Input ~ 0
+row3
+Text GLabel 3350 2450 2    50   Input ~ 0
+row2
+Text GLabel 3350 2550 2    50   Input ~ 0
+row0
+Text GLabel 3350 2850 2    50   Input ~ 0
+col6
+Text GLabel 3350 2950 2    50   Input ~ 0
+col7
+Text GLabel 3350 3250 2    50   Input ~ 0
+col0
+Text GLabel 3350 3350 2    50   Input ~ 0
+col1
+Text GLabel 3350 3450 2    50   Input ~ 0
+col2
+Text GLabel 3350 3550 2    50   Input ~ 0
+col4
+Text GLabel 3350 3650 2    50   Input ~ 0
+col3
+Text GLabel 3350 3750 2    50   Input ~ 0
+col5
+Text GLabel 3350 3850 2    50   Input ~ 0
+row1
+Text GLabel 3350 4450 2    50   Input ~ 0
+col11
+Text GLabel 3350 4550 2    50   Input ~ 0
+col10
+Text GLabel 3350 4650 2    50   Input ~ 0
+col9
+Text GLabel 3350 4750 2    50   Input ~ 0
+col8
 Text GLabel 5725 2400 2    50   Input ~ 0
 D+
 Text GLabel 5725 2600 2    50   Input ~ 0
@@ -990,10 +1022,10 @@ F 3 "~" V 12925 2650 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Device:D_Small D42
+L Device:D_Small D41
 U 1 1 5EE39EA4
 P 12925 3300
-F 0 "D42" V 12970 3235 50  0000 R CNN
+F 0 "D41" V 12970 3235 50  0000 R CNN
 F 1 "D" V 12880 3235 50  0000 R CNN
 F 2 "Diode_SMD:D_SOD-123" V 12925 3300 50  0001 C CNN
 F 3 "~" V 12925 3300 50  0001 C CNN
@@ -1034,10 +1066,10 @@ F 3 "~" V 13425 2650 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Device:D_Small D41
+L Device:D_Small D42
 U 1 1 5EE39F35
 P 13425 3300
-F 0 "D41" V 13470 3235 50  0000 R CNN
+F 0 "D42" V 13470 3235 50  0000 R CNN
 F 1 "D" V 13380 3235 50  0000 R CNN
 F 2 "Diode_SMD:D_SOD-123" V 13425 3300 50  0001 C CNN
 F 3 "~" V 13425 3300 50  0001 C CNN

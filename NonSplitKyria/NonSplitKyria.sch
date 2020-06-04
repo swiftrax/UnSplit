@@ -447,6 +447,38 @@ Text GLabel 1825 2950 0    50   Input ~ 0
 D+
 Text GLabel 1825 3050 0    50   Input ~ 0
 D-
+Text GLabel 3350 2350 2    50   Input ~ 0
+row3
+Text GLabel 3350 2450 2    50   Input ~ 0
+row2
+Text GLabel 3350 2550 2    50   Input ~ 0
+row0
+Text GLabel 3350 2850 2    50   Input ~ 0
+col6
+Text GLabel 3350 2950 2    50   Input ~ 0
+col7
+Text GLabel 3350 3250 2    50   Input ~ 0
+col0
+Text GLabel 3350 3350 2    50   Input ~ 0
+col1
+Text GLabel 3350 3450 2    50   Input ~ 0
+col2
+Text GLabel 3350 3550 2    50   Input ~ 0
+col4
+Text GLabel 3350 3650 2    50   Input ~ 0
+col3
+Text GLabel 3350 3750 2    50   Input ~ 0
+col5
+Text GLabel 3350 3850 2    50   Input ~ 0
+row1
+Text GLabel 3350 4450 2    50   Input ~ 0
+col11
+Text GLabel 3350 4550 2    50   Input ~ 0
+col10
+Text GLabel 3350 4650 2    50   Input ~ 0
+col9
+Text GLabel 3350 4750 2    50   Input ~ 0
+col8
 Text GLabel 5725 2400 2    50   Input ~ 0
 D+
 Text GLabel 5725 2600 2    50   Input ~ 0

@@ -1,4 +1,4 @@
-update=6/3/2020 3:37:29 PM
+update=6/3/2020 6:28:05 PM
 version=1
 last_client=kicad
 [general]
@@ -17,7 +17,7 @@ version=1
 [ModEditFrame]
 version=1
 [sheetnames]
-1=00000000-0000-0000-0000-00005ed875fd:
+1=00000000-0000-0000-0000-00005ed84141:
 [pcbnew]
 version=1
 PageLayoutDescrFile=
@@ -71,7 +71,7 @@ DimensionPrecision=1
 SolderMaskClearance=0.05
 SolderMaskMinWidth=0
 SolderPasteClearance=0
-SolderPasteRatio=-0
+SolderPasteRatio=0
 [pcbnew/Layer.F.Cu]
 Name=F.Cu
 Type=0
