@@ -1,4 +1,4 @@
-# NonSplitKyria
+# UnSplit
 A Kyria layout with some of the thumb keys removed. It is non split and powered by an ATMega32u4-AU. Featuring an exposed component layout with diodes in a bank.
 
 ## PCB Renders
