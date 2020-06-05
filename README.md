@@ -3,9 +3,9 @@ A Kyria layout with some of the thumb keys removed. It is non split and powered 
 
 ## PCB Renders
 Top
-![Front](https://github.com/swiftrax/UnSplit/blob/master/Images/top.svg)
+![Front](https://github.com/swiftrax/UnSplit/blob/master/Images/Front.PNG)
 Bottom
-![Back](https://github.com/swiftrax/UnSplit/blob/master/Images/bottom.svg)
+![Back](https://github.com/swiftrax/UnSplit/blob/master/Images/Back.PNG)
 *Open with KiCad nightly*
 
 ## License
