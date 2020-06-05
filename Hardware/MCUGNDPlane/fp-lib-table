@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "Local_Project")(type "KiCad")(uri "D:/GitHub/NonSplitKyria/Hardware/Local_Project.pretty")(options "")(descr ""))
+  (lib (name "MX_Only")(type "KiCad")(uri "D:/GitHub/NonSplitKyria/Hardware/MX_Only.pretty")(options "")(descr ""))
+)

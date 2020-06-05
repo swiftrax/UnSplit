@@ -1,6 +1,6 @@
-update=6/3/2020 9:06:03 PM
+update=6/4/2020 5:13:37 PM
 version=1
-last_client=pcbnew
+last_client=kicad
 [general]
 version=1
 RootSch=
@@ -16,8 +16,6 @@ LibDir=
 version=1
 [ModEditFrame]
 version=1
-[sheetnames]
-1=00000000-0000-0000-0000-00005ed84141:
 [PcbFrame]
 version=1
 [pcbnew]
@@ -263,3 +261,5 @@ uViaDrill=0.1
 dPairWidth=0.2
 dPairGap=0.25
 dPairViaGap=0.25
+[sheetnames]
+1=00000000-0000-0000-0000-00005ed98e72:
