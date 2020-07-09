@@ -28,6 +28,11 @@ Bottom Partial Ground Plane
 
 *Capactiors and Resistors are 0805 Package size*
 
+## Firmware
+[QMK Firmware](https://github.com/swiftrax/qmk_firmware/tree/unsplit/keyboards/handwired/swiftrax/unsplit)
+
+[VIA JSON](https://github.com/swiftrax/keyboards/blob/swiftrax/src/swiftrax/unsplit.json)
+
 ## License
 
 This repository is under the [GNU GPL V2 license](https://github.com/swiftrax/UnSplit/blob/master/LICENSE). If you plan to sell these pcbs, make sure to read it.
